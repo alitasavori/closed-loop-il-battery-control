@@ -141,6 +141,17 @@ os.environ["EMS_PRICE_NOISE_STD"] = "0.4"     # high (stress scenario)
 
 ---
 
+## Citation
+
+If you use this code or build on this work, please cite:
+
+```
+Ali Tasavvori. "Closed-Loop Imitation Learning for Battery Control in Distribution Systems."
+Advanced AI Course Project, University of Utah, Spring 2025.
+```
+
+---
+
 ## License
 
 This repository is released for academic and educational use.

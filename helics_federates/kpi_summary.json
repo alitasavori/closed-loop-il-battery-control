@@ -1,0 +1,39 @@
+{
+  "economics": {
+    "sum_pi_Pact_raw": 1317851.3091870453,
+    "sum_pi_Pact_dt_h": 109820.94243225377,
+    "cum_revenue_final": 109820.94243225311
+  },
+  "voltage_1pu": {
+    "P_V_not_exact_1": 1.0,
+    "P_absVdev_gt_1pct": 0.7552951388888889,
+    "P_absVdev_gt_2pct": 0.46805555555555556,
+    "P_absVdev_gt_5pct": 0.0006076388888888889,
+    "time_absVdev_gt_1pct_h": 725.0833333333334,
+    "time_absVdev_gt_2pct_h": 449.3333333333333,
+    "time_absVdev_gt_5pct_h": 0.5833333333333334,
+    "mean_abs_V_minus_1": 0.02054003830482015,
+    "rmse_V_minus_1": 0.023908496842352366,
+    "V_min_pu": 0.9485947107060009,
+    "V_max_pu": 1.0352871824034497
+  },
+  "soc_saturation": {
+    "soc_min_steps": 32,
+    "soc_max_steps": 7,
+    "soc_bound_steps": 39,
+    "soc_min_time_h": 2.6666666666666665,
+    "soc_max_time_h": 0.5833333333333334,
+    "soc_bound_time_h": 3.25,
+    "soc_min_entry_events": 11,
+    "soc_max_entry_events": 4,
+    "soc_bound_entry_events": 15
+  },
+  "solve_time": {
+    "lp_solve_count": 11520,
+    "lp_solve_total_s": 1234.806131999212,
+    "lp_solve_mean_s": 0.10718803229159828,
+    "lp_solve_p95_s": 0.14414465999543583,
+    "lp_solve_max_s": 0.3040451999986544,
+    "cosim_wall_s_estimate": 139.80827499999577
+  }
+}
