@@ -139,12 +139,6 @@ os.environ["EMS_PRICE_NOISE_STD"] = "0.4"     # high (stress scenario)
 
 **Models evaluated:** MLP, LSTM, LSTM + auxiliary task, Random Forest. RF performed best in BC setting.
 
----
-
-## Citation
-
-If you use this code or build on this work, please cite:
-
 ```
 Ali Tasavvori. "Closed-Loop Imitation Learning for Battery Control in Distribution Systems."
 Advanced AI Course Project, University of Utah, Spring 2025.
